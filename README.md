@@ -2,7 +2,7 @@
 # Introduction to ML - Day 1
 Global AI Hub, TOBB ve TOBB ETÜ işbirliği ile hazırlanan Introduction to Machine Learning eğitimine hoşgeldiniz!
 
-Kurs materyallerine bu [linkten](https://github.com/globalaihub/introduction-to-machine-learning) ulaşabilirsiniz;  
+Kurs materyallerine bu [linkten](https://github.com/globalaihub/introduction-to-machine-learning) ulaşabilirsiniz.  
 
 ## HATIRLATICILAR
 ➠ Sertifika almaya sorunsuz bir şekilde hak kazanabilmeniz için kurs süresi içerisinde katılım formunu doldurduğunuzdan lütfen emin olun:
