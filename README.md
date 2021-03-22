@@ -35,7 +35,7 @@ Top Learner Programı, öğrenmeye istekli katılımcıların başarılarını t
 ➠ Top Learner olmak için şunları yapmalısınız:  
 5 gün boyunca bütün derslerimize katılarak katılım formlarının hepsini doldurmalısınız.  
 Gün sonlarında verilecek olan toplamda 5 quizi tamamlayıp yüksek puan almalısınız.  
-Bir Github hesabı açmalısınız.  
+Eğer yoksa bir Github hesabı açmalısınız.  
 Sizler için oluşturduğumuz örnek repoyu forklayarak kendi reponuzu oluşturmalısınız.  
 Bütün ödevleri ve final projesini yaparak GitHub repo linkini form ile göndermelisiniz.  
 
