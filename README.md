@@ -42,7 +42,7 @@ Bütün ödevleri ve final projesini yaparak GitHub repo linkini form ile gönde
 Açtığınız repoların yapısı aşağıdaki format ile aynı olmalıdır.  
 [Repo Örneği](https://github.com/globalaihub/gaih-students-repo-example)  
 
-GitHub repo linkinizi bu bağlantıdan gönderebilirsiniz:
+GitHub repo linkinizi bu bağlantıdan gönderebilirsiniz:  
 [Repo Gönderme Formu](https://forms.gle/ut6GXqyoNsU9wYKP7)
 
 
