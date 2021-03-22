@@ -56,9 +56,9 @@ Mentor ekibimizle iletişim kurabilecek ve ilerlemeniz sırasında destek alma �
 
 ### Diğer Bilgiler
 Eğitmenimiz Kutay Akalın’ın sosyal medya hesaplarına aşağıdaki linklerden ulaşabilirsiniz:
-➠[LinkedIn](https://www.linkedin.com/in/kutay-akalın-361b81128/)  
-➠[GitHub](https://github.com/KutayAkalin)  
-➠[GlobalAIHub](https://globalaihub.com/profile/akalink/)  
+-[LinkedIn](https://www.linkedin.com/in/kutay-akalın-361b81128/)  
+-[GitHub](https://github.com/KutayAkalin)  
+-[GlobalAIHub](https://globalaihub.com/profile/akalink/)  
 
 ➠ Sorularınız ve ders notları için [Turkish AI Hub'a](https://globalaihub.com/community-hubs/turkish-ai-hub/) ulaşabilirsiniz.       
 
