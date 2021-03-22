@@ -70,11 +70,11 @@ Sosyal medya hesaplarımızdan bizi takip edin:
 ➠Instagram: https://www.instagram.com/globalaihub/  
 ➠Youtube: https://www.youtube.com/user/tobbiletisim  
 
-TOBB sosyal medya hesaplarını takip edin:
-➠Twitter: https://twitter.com/TOBBiletisim 
-➠Facebook: https://www.facebook.com/TOBBiletisim 
-➠Instagram: https://www.instagram.com/TOBBiletisim 
-➠Youtube: https://www.youtube.com/user/tobbiletisim
+TOBB sosyal medya hesaplarını takip edin:  
+➠Twitter: https://twitter.com/TOBBiletisim  
+➠Facebook: https://www.facebook.com/TOBBiletisim  
+➠Instagram: https://www.instagram.com/TOBBiletisim  
+➠Youtube: https://www.youtube.com/user/tobbiletisim  
 
-Katıldığınız için teşekkür ederiz! 
+Katıldığınız için teşekkür ederiz!  
 
