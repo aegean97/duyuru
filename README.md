@@ -28,7 +28,7 @@ Communty'iye ulaşmak için [tıklayınız](https://globalaihub.com/community/).
 
 Sertifikanızı kazanabilmeniz için en az 3 gün boyunca katılmış ve yoklamayı doldurmuş olmalısınız!  
 
-## Top Learner
+### Top Learner
 ➠ Top Learner Programı nedir?
 Top Learner Programı, öğrenmeye istekli katılımcıların başarılarını takdir etmeyi amaçlayan bir programdır. Top Learner seçilen katılımcılarımızı kariyer yolları boyunca ilerlemelerinde destekleyeceğiz.  
 
@@ -54,7 +54,7 @@ Mentor ekibimizle iletişim kurabilecek ve ilerlemeniz sırasında destek alma �
 
 ➠ Ödevler, quizler ve final projesi sadece Top Learner olmak isteyen katılımcılar için zorunludur, sertifika almak için sadece eğitimleri takip etmeniz yeterlidir!
 
-Diğer Bilgiler
+### Diğer Bilgiler
 Eğitmenimiz Kutay Akalın’ın sosyal medya hesaplarına aşağıdaki linklerden ulaşabilirsiniz:
 [LinkedIn](https://www.linkedin.com/in/kutay-akalın-361b81128/  )
 [GitHub](https://github.com/KutayAkalin)
