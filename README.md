@@ -56,25 +56,24 @@ Mentor ekibimizle iletişim kurabilecek ve ilerlemeniz sırasında destek alma �
 
 ### Diğer Bilgiler
 Eğitmenimiz Kutay Akalın’ın sosyal medya hesaplarına aşağıdaki linklerden ulaşabilirsiniz:
-[LinkedIn](https://www.linkedin.com/in/kutay-akalın-361b81128/  )
-[GitHub](https://github.com/KutayAkalin)
-[GlobalAIHub](https://globalaihub.com/profile/akalink/  )
+[LinkedIn](https://www.linkedin.com/in/kutay-akalın-361b81128/)  
+[GitHub](https://github.com/KutayAkalin)  
+[GlobalAIHub](https://globalaihub.com/profile/akalink/)  
 
 ➠ Sorularınız ve ders notları için [Turkish AI Hub'a](https://globalaihub.com/community-hubs/turkish-ai-hub/) ulaşabilirsiniz.       
 
 ➠ Postlarınıza "@globalaihub" etiketini ve #MachineLearning hashtag'ini eklemeyi unutmayın! Elimizden geldiğince RT ve Repost yapacağız.  
 
 Sosyal medya hesaplarımızdan bizi takip edin:  
-➠LinkedIn:  (https://www.linkedin.com/company/globalaihub)  
-➠Twitter: https://twitter.com/GlobalAIHub  
-➠Instagram: https://www.instagram.com/globalaihub/  
-➠Youtube: https://www.youtube.com/user/tobbiletisim  
+➠[LinkedIn](https://www.linkedin.com/company/globalaihub)  
+➠[Twitter](https://twitter.com/GlobalAIHub)  
+➠[Instagram](https://www.instagram.com/globalaihub/)
 
 TOBB sosyal medya hesaplarını takip edin:  
-➠Twitter: https://twitter.com/TOBBiletisim  
-➠Facebook: https://www.facebook.com/TOBBiletisim  
-➠Instagram: https://www.instagram.com/TOBBiletisim  
-➠Youtube: https://www.youtube.com/user/tobbiletisim  
+➠[Twitter](https://twitter.com/TOBBiletisim)    
+➠[Facebook](https://www.facebook.com/TOBBiletisim)    
+➠[Instagram](https://www.instagram.com/TOBBiletisim)  
+➠[Youtube](https://www.youtube.com/user/tobbiletisim)  
 
 Katıldığınız için teşekkür ederiz!  
 
