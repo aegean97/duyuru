@@ -55,7 +55,7 @@ Mentor ekibimizle iletişim kurabilecek ve ilerlemeniz sırasında destek alma �
 ➠ Ödevler, quizler ve final projesi sadece Top Learner olmak isteyen katılımcılar için zorunludur, sertifika almak için sadece eğitimleri takip etmeniz yeterlidir!
 
 ### Diğer Bilgiler
-Eğitmenimiz Kutay Akalın’ın sosyal medya hesaplarına aşağıdaki linklerden ulaşabilirsiniz:
+Eğitmenimiz Kutay Akalın’ın sosyal medya hesaplarına aşağıdaki linklerden ulaşabilirsiniz:  
 -[LinkedIn](https://www.linkedin.com/in/kutay-akalın-361b81128/)  
 -[GitHub](https://github.com/KutayAkalin)  
 -[GlobalAIHub](https://globalaihub.com/profile/akalink/)  
