@@ -15,7 +15,7 @@ Her katılım formu doldururken aynı e-posta adresini kullanmaya dikkat ediniz.
 Sık Sorulan Sorulara [buradan](https://globalaihub.com/faq/) ulaşabilirsiniz.  
 
 ### Quiz
-Quizler kurs bittikten sonra sadece 15 dakika boyunca aktif olacaktır.  
+Quizler kurs bittikten sonra sadece 17 dakika boyunca aktif olacaktır.  
 Quizin bağlantısını sizinle paylaşacağız.  
 Quiz için link [tıklayınız](https://forms.gle/ino44wJEomjBC4xRA )  
 
