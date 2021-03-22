@@ -65,7 +65,7 @@ Eğitmenimiz Kutay Akalın’ın sosyal medya hesaplarına aşağıdaki linklerd
 ➠ Postlarınıza "@globalaihub" etiketini ve #MachineLearning hashtag'ini eklemeyi unutmayın! Elimizden geldiğince RT ve Repost yapacağız.  
 
 Sosyal medya hesaplarımızdan bizi takip edin:  
-➠LinkedIn:  https://www.linkedin.com/company/globalaihub  
+➠LinkedIn:  (https://www.linkedin.com/company/globalaihub)  
 ➠Twitter: https://twitter.com/GlobalAIHub  
 ➠Instagram: https://www.instagram.com/globalaihub/  
 ➠Youtube: https://www.youtube.com/user/tobbiletisim  
