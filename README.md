@@ -1,4 +1,4 @@
-![](toob_gaih.png)
+![](tobb_gaih.png)
 # Introduction to ML - Day 1
 Global AI Hub, TOBB ve TOBB ETÜ işbirliği ile hazırlanan Introduction to Machine Learning eğitimine hoşgeldiniz!
 
